@@ -13,7 +13,7 @@ If you are running Manjaro / Arch and would like to build the packages locally f
 
 ### Requirements
 
-If you are running this locally in Manjaro / Arch use the following to ensure all required libraries are installed:
+The following will ensure all required libraries are installed:
 
 ```
 pacman --noconfirm -Syu base-devel go ruby php-embed nodejs npm
